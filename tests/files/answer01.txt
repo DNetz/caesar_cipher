@@ -1,0 +1,5 @@
+“Moving beyond simple shifts lets explore a more intricate transposition with the
+example of a love note Using a grid system we rearrange letters based on a specific
+reading method The ciphertext maintains the same letters as the plaintext but forms a
+new pattern requiring knowledge of the grids dimensions and reading pattern for
+decryption”

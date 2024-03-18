@@ -1,0 +1,4 @@
+“Diffusion serves as a cornerstone in cryptographic endeavors By dispersing the statistical
+structure of plaintext within the ciphertext cryptographers obscure any discernible patterns
+Through a combination of transposition and substitution diffusion eliminates clues that could
+aid adversaries in unraveling encrypted messages”
