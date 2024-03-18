@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "caesar-cipher"
+version = "0.1.0"
+description = "App that encrypts and decrypts using the caesar cipher algorithm."
+authors = ["DNetz <daniel.netzel001@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+click = "^8.1.7"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.2"
+pytest-cov = "^4.1.0"
+flake8 = "^7.0.0"
+black = "^24.2.0"
+isort = "^5.13.2"
+mypy = "^1.8.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
